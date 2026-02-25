@@ -1,8 +1,8 @@
 # 🌍 World GDP Analysis Project
 
-## 📂 Dataset Access
+## 📂 Result
 
-The datasets used in this project are stored on Google Drive:
+The Result of GDP Analysis on Google Drive:
 
 🔗 **Google Drive Folder:**  
 https://drive.google.com/drive/folders/1629te16Z-IFrEZoJzv3OuAfLV7x-vN6j
@@ -147,5 +147,5 @@ This project provides structured economic analysis of global GDP trends and indi
 
 ## 👤 Author
 
-Your Name  
-GitHub: https://github.com/yourusername
+Anshuman Maurya
+GitHub: https://github.com/Anshuman776
